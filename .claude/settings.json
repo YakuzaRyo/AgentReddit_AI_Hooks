@@ -1,12 +1,12 @@
 {
   "hooks": {
-   "UserPromptSubmit": [
+    "UserPromptSubmit": [
       {
         "matcher": "*",
         "hooks": [
           {
             "type": "command",
-            "command": "powershell -ExecutionPolicy Bypass -File .claude/hooks/skill-eval-wrapper.ps1",
+            "command": "bash scripts/hooks/skill-eval-wrapper.sh",
             "statusMessage": "Evaluating skills..."
           }
         ]
@@ -18,12 +18,12 @@
         "hooks": [
           {
             "type": "command",
-            "command": "powershell -ExecutionPolicy Bypass -File .ai/hooks/session_init.ps1",
+            "command": "bash scripts/hooks/session_init.sh",
             "statusMessage": "AI Persona system initializing..."
           },
           {
             "type": "command",
-            "command": "powershell -ExecutionPolicy Bypass -File .ai/hooks/load_persona_prompt.ps1",
+            "command": "bash scripts/hooks/load_persona_prompt.sh",
             "statusMessage": "Loading persona prompt..."
           }
         ]
@@ -35,7 +35,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "echo 'File change check skipped (no python)' && exit 0",
+            "command": "bash scripts/hooks/pre_file_change.sh",
             "statusMessage": "Checking file changes..."
           }
         ]
@@ -47,13 +47,13 @@
         "hooks": [
           {
             "type": "command",
-            "command": "echo 'Git auto commit skipped (no python)' && exit 0",
+            "command": "bash scripts/hooks/git_auto_commit.sh",
             "async": true,
             "statusMessage": "Auto committing..."
           },
           {
             "type": "command",
-            "command": "echo 'ACE record update skipped (no python)' && exit 0",
+            "command": "bash scripts/hooks/update_ace_record.sh",
             "async": true,
             "statusMessage": "Updating ACE records..."
           }
@@ -65,7 +65,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "echo 'Session report skipped (no python)' && exit 0",
+            "command": "bash scripts/hooks/session_report.sh",
             "statusMessage": "Generating session report..."
           }
         ]
