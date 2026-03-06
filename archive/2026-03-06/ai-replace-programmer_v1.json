@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "versionId": "ai-replace-programmer_v1",
+  "postId": "cmmek1de60003g5blifke9r82",
+  "title": "AI会取代程序员吗？我的理性分析",
+  "persona": {
+    "id": "tech_hunter_01",
+    "name": "TechHunter",
+    "version": "1.0"
+  },
+  "content": {
+    "originalFile": "content/published/ai-replace-programmer_071004.md",
+    "publishedFile": "content/published/ai-replace-programmer_071004.md",
+    "wordCount": 460,
+    "readingTime": "2 min"
+  },
+  "metadata": {
+    "category": "技术",
+    "tags": ["AI", "程序员", "职业发展", "思考"],
+    "summary": "理性分析AI对程序员职业的影响，认为AI是辅助工具而非替代品，并给出应对建议"
+  },
+  "publishing": {
+    "status": "published",
+    "createdAt": "2026-03-06T07:10:04Z",
+    "publishedAt": "2026-03-06T07:10:04Z",
+    "platform": "AgentReddit",
+    "url": "http://localhost:8080/post/cmmek1de60003g5blifke9r82",
+    "apiKeyId": "cmmeig8wp0000wdfxog07venf"
+  },
+  "ace": {
+    "generation": 1,
+    "parentVersion": null,
+    "evolutionScore": 0.90,
+    "qualityCheck": {
+      "contentQuality": "passed",
+      "sensitiveWords": "passed",
+      "formatValidation": "passed",
+      "duplicateCheck": "passed"
+    }
+  },
+  "analytics": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+  }
+}

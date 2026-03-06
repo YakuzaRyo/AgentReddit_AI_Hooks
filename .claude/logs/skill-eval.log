@@ -1,0 +1,230 @@
+[2026-03-06 14:58:45] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 14:58:45] [INFO] USER_PROMPT: 
+[2026-03-06 14:58:45] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 14:58:45] [INFO] Node.js version: v24.11.0
+[2026-03-06 14:58:45] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 06:58:45] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 06:58:45] [INFO] USER_PROMPT: 
+[2026-03-06 06:58:45] [INFO] Evaluation complete. Matched: none
+[2026-03-06 06:58:45] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 14:58:45] [INFO] Exit code: 0
+[2026-03-06 15:01:28] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:01:28] [INFO] USER_PROMPT: 
+[2026-03-06 15:01:28] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:01:28] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:01:28] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:01:28] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:01:28] [INFO] USER_PROMPT: 
+[2026-03-06 07:01:28] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:01:28] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:01:28] [INFO] Exit code: 0
+[2026-03-06 15:01:40] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:01:40] [INFO] USER_PROMPT: 
+[2026-03-06 15:01:40] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:01:40] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:01:40] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:01:40] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:01:40] [INFO] USER_PROMPT: 
+[2026-03-06 07:01:40] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:01:40] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:01:40] [INFO] Exit code: 0
+[2026-03-06 15:08:48] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:08:48] [INFO] USER_PROMPT: 
+[2026-03-06 15:08:48] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:08:48] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:08:48] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:08:48] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:08:48] [INFO] USER_PROMPT: 
+[2026-03-06 07:08:48] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:08:48] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:08:48] [INFO] Exit code: 0
+[2026-03-06 15:16:36] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:16:36] [INFO] USER_PROMPT: 
+[2026-03-06 15:16:36] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:16:36] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:16:36] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:16:36] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:16:36] [INFO] USER_PROMPT: 
+[2026-03-06 07:16:36] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:16:36] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:16:36] [INFO] Exit code: 0
+[2026-03-06 15:20:09] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:20:09] [INFO] USER_PROMPT: 
+[2026-03-06 15:20:09] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:20:09] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:20:09] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:20:09] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:20:09] [INFO] USER_PROMPT: 
+[2026-03-06 07:20:09] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:20:09] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:20:09] [INFO] Exit code: 0
+[2026-03-06 15:21:20] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:21:20] [INFO] USER_PROMPT: 
+[2026-03-06 15:21:20] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:21:21] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:21:21] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:21:21] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:21:21] [INFO] USER_PROMPT: 
+[2026-03-06 07:21:21] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:21:21] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:21:21] [INFO] Exit code: 0
+[2026-03-06 15:22:36] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:22:36] [INFO] USER_PROMPT: 
+[2026-03-06 15:22:36] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:22:36] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:22:36] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:22:36] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:22:36] [INFO] USER_PROMPT: 
+[2026-03-06 07:22:36] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:22:36] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:22:36] [INFO] Exit code: 0
+[2026-03-06 15:23:19] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:23:19] [INFO] USER_PROMPT: 
+[2026-03-06 15:23:19] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:23:19] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:23:19] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:23:19] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:23:19] [INFO] USER_PROMPT: 
+[2026-03-06 07:23:19] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:23:19] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:23:19] [INFO] Exit code: 0
+[2026-03-06 15:24:09] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:24:09] [INFO] USER_PROMPT: 
+[2026-03-06 15:24:09] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:24:09] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:24:09] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:24:09] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:24:09] [INFO] USER_PROMPT: 
+[2026-03-06 07:24:09] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:24:09] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:24:09] [INFO] Exit code: 0
+[2026-03-06 15:24:30] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:24:30] [INFO] USER_PROMPT: 
+[2026-03-06 15:24:30] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:24:30] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:24:30] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:24:30] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:24:30] [INFO] USER_PROMPT: 
+[2026-03-06 07:24:30] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:24:30] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:24:30] [INFO] Exit code: 0
+[2026-03-06 15:24:55] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:24:55] [INFO] USER_PROMPT: 
+[2026-03-06 15:24:55] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:24:55] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:24:55] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:24:55] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:24:55] [INFO] USER_PROMPT: 
+[2026-03-06 07:24:55] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:24:55] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:24:55] [INFO] Exit code: 0
+[2026-03-06 15:28:39] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:28:39] [INFO] USER_PROMPT: 
+[2026-03-06 15:28:39] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:28:39] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:28:39] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:28:39] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:28:39] [INFO] USER_PROMPT: 
+[2026-03-06 07:28:39] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:28:39] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:28:39] [INFO] Exit code: 0
+[2026-03-06 15:29:01] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:29:01] [INFO] USER_PROMPT: 
+[2026-03-06 15:29:01] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:29:01] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:29:01] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:29:01] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:29:01] [INFO] USER_PROMPT: 
+[2026-03-06 07:29:01] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:29:01] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:29:01] [INFO] Exit code: 0
+[2026-03-06 15:30:44] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:30:44] [INFO] USER_PROMPT: 
+[2026-03-06 15:30:44] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:30:44] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:30:44] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:30:44] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:30:44] [INFO] USER_PROMPT: 
+[2026-03-06 07:30:44] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:30:44] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:30:44] [INFO] Exit code: 0
+[2026-03-06 15:31:46] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:31:46] [INFO] USER_PROMPT: 
+[2026-03-06 15:31:46] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:31:46] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:31:46] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:31:47] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:31:47] [INFO] USER_PROMPT: 
+[2026-03-06 07:31:47] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:31:47] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:31:47] [INFO] Exit code: 0
+[2026-03-06 15:32:26] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:32:26] [INFO] USER_PROMPT: 
+[2026-03-06 15:32:26] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:32:26] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:32:26] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:32:26] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:32:26] [INFO] USER_PROMPT: 
+[2026-03-06 07:32:26] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:32:26] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:32:26] [INFO] Exit code: 0
+[2026-03-06 15:34:47] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:34:47] [INFO] USER_PROMPT: 
+[2026-03-06 15:34:47] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:34:47] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:34:47] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:34:48] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:34:48] [INFO] USER_PROMPT: 
+[2026-03-06 07:34:48] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:34:48] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:34:48] [INFO] Exit code: 0
+[2026-03-06 15:35:17] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:35:17] [INFO] USER_PROMPT: 
+[2026-03-06 15:35:17] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:35:17] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:35:17] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:35:17] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:35:17] [INFO] USER_PROMPT: 
+[2026-03-06 07:35:17] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:35:17] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:35:17] [INFO] Exit code: 0
+[2026-03-06 15:37:36] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:37:36] [INFO] USER_PROMPT: 
+[2026-03-06 15:37:36] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:37:36] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:37:36] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:37:36] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:37:36] [INFO] USER_PROMPT: 
+[2026-03-06 07:37:36] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:37:36] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:37:36] [INFO] Exit code: 0
+[2026-03-06 15:42:25] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:42:25] [INFO] USER_PROMPT: 
+[2026-03-06 15:42:25] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:42:25] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:42:25] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:42:25] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:42:25] [INFO] USER_PROMPT: 
+[2026-03-06 07:42:25] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:42:25] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:42:25] [INFO] Exit code: 0
+[2026-03-06 15:47:21] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:47:21] [INFO] USER_PROMPT: 
+[2026-03-06 15:47:21] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:47:21] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:47:21] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:47:21] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:47:21] [INFO] USER_PROMPT: 
+[2026-03-06 07:47:21] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:47:21] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:47:21] [INFO] Exit code: 0
+[2026-03-06 15:51:26] [INFO] === skill-eval-wrapper.ps1 started ===
+[2026-03-06 15:51:26] [INFO] USER_PROMPT: 
+[2026-03-06 15:51:26] [INFO] Hook directory: D:\11846\AgentReddit_AI_Hooks\.claude\hooks
+[2026-03-06 15:51:26] [INFO] Node.js version: v24.11.0
+[2026-03-06 15:51:26] [INFO] Executing: D:\11846\AgentReddit_AI_Hooks\.claude\hooks\skill-forced-eval.cjs
+[2026-03-06 07:51:27] [INFO] === skill-forced-eval.cjs started ===
+[2026-03-06 07:51:27] [INFO] USER_PROMPT: 
+[2026-03-06 07:51:27] [INFO] Evaluation complete. Matched: none
+[2026-03-06 07:51:27] [INFO] === skill-forced-eval.cjs ended ===
+[2026-03-06 15:51:27] [INFO] Exit code: 0

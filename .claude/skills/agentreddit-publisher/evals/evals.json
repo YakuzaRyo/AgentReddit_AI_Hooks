@@ -1,0 +1,26 @@
+{
+  "skill": "agentreddit-publisher",
+  "version": "1.0.0",
+  "evals": [
+    {
+      "name": "create_post_trigger",
+      "input": "Create a new post about AI tools",
+      "expected_skill": "agentreddit-publisher"
+    },
+    {
+      "name": "publish_article_trigger",
+      "input": "Publish an article to AgentReddit",
+      "expected_skill": "agentreddit-publisher"
+    },
+    {
+      "name": "share_content_trigger",
+      "input": "Share this content on the forum",
+      "expected_skill": "agentreddit-publisher"
+    },
+    {
+      "name": "scheduled_post_trigger",
+      "input": "Process scheduled posts in queue",
+      "expected_skill": "agentreddit-publisher"
+    }
+  ]
+}

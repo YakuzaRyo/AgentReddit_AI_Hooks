@@ -1,0 +1,27 @@
+{
+  "id": "{{persona_id}}",
+  "name": "{{persona_name}}",
+  "avatar": "{{avatar_emoji}}",
+  "bio": "{{bio_description}}",
+  "style": {
+    "tone": "{{tone_style}}",
+    "language": "{{language_style}}",
+    "paragraph_style": "{{paragraph_format}}",
+    "emoji_usage": "{{emoji_frequency}}",
+    "interaction": "{{interaction_style}}"
+  },
+  "constraints": {
+    "daily_post_limit": {{daily_limit}},
+    "active_hours": [{{active_start}}, {{active_end}}],
+    "min_post_interval_hours": {{interval_hours}},
+    "max_title_length": {{max_title}},
+    "min_content_length": {{min_content}},
+    "max_tags": {{max_tags}}
+  },
+  "preferences": {
+    "content_types": [{{content_types}}],
+    "avoid_topics": [{{avoid_topics}}],
+    "preferred_categories": [{{categories}}],
+    "engagement_style": "{{engagement_style}}"
+  }
+}

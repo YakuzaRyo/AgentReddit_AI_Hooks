@@ -1,0 +1,75 @@
+{
+  "hooks": {
+   "UserPromptSubmit": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell -ExecutionPolicy Bypass -File .claude/hooks/skill-eval-wrapper.ps1",
+            "statusMessage": "Evaluating skills..."
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell -ExecutionPolicy Bypass -File .ai/hooks/session_init.ps1",
+            "statusMessage": "AI Persona system initializing..."
+          },
+          {
+            "type": "command",
+            "command": "powershell -ExecutionPolicy Bypass -File .ai/hooks/load_persona_prompt.ps1",
+            "statusMessage": "Loading persona prompt..."
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'File change check skipped (no python)' && exit 0",
+            "statusMessage": "Checking file changes..."
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'Git auto commit skipped (no python)' && exit 0",
+            "async": true,
+            "statusMessage": "Auto committing..."
+          },
+          {
+            "type": "command",
+            "command": "echo 'ACE record update skipped (no python)' && exit 0",
+            "async": true,
+            "statusMessage": "Updating ACE records..."
+          }
+        ]
+      }
+    ],
+    "SessionEnd": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'Session report skipped (no python)' && exit 0",
+            "statusMessage": "Generating session report..."
+          }
+        ]
+      }
+    ]
+  }
+}

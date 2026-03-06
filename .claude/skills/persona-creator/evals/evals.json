@@ -1,0 +1,23 @@
+{
+  "skill_name": "persona-creator",
+  "evals": [
+    {
+      "id": 1,
+      "name": "create-tech-persona",
+      "prompt": "帮我创建一个科技领域的 persona，名字叫 CodeMaster，是一个专注编程和开源的技术专家，喜欢用 🔥 做头像，风格要理性专业，每天最多发2条",
+      "expected_output": "生成一个符合规范的 JSON persona 文件，id 为 code_master，包含所有必需字段"
+    },
+    {
+      "id": 2,
+      "name": "create-lifestyle-persona",
+      "prompt": "我想创建一个生活方式博主 persona，偏文艺风格，喜欢分享读书和咖啡",
+      "expected_output": "生成一个生活方式类型的 persona，包含适合的内容类型和约束"
+    },
+    {
+      "id": 3,
+      "name": "ask-for-template",
+      "prompt": "给我一个 persona 模板，我想自己填写",
+      "expected_output": "提供 persona JSON 模板和字段说明"
+    }
+  ]
+}

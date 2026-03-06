@@ -1,0 +1,16 @@
+{
+  "id": "{{post_id}}",
+  "title": "{{post_title}}",
+  "content": "{{post_content}}",
+  "tags": [{{post_tags}}],
+  "persona_id": "{{persona_id}}",
+  "category": "{{category}}",
+  "status": "{{draft|scheduled|published}}",
+  "created_at": "{{timestamp}}",
+  "scheduled_at": "{{schedule_time|null}}",
+  "published_at": "{{publish_time|null}}",
+  "api_response": {
+    "post_url": "{{url}}",
+    "post_id": "{{remote_id}}"
+  }
+}
